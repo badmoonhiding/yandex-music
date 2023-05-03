@@ -1,2 +1,2 @@
 # yandex-music
-The research objective
+Coming soon...
